@@ -71,11 +71,24 @@ async def health_check():
             "/api/emissions/monthly",
             "/api/emissions/insights",
             "/api/emissions/forecast",
+            "/api/emissions/records",
             "/api/chat",
             "/api/reports/generate",
             "/api/reports/latest",
         ],
     }
+
+
+@app.get("/api/emissions/records", tags=["Emissions"])
+async def emissions_records():
+    """Get individual emission records."""
+    conn = get_connection()
+    rows = conn.execute(
+        "SELECT id, category, subcategory, department, co2e_kg, scope, date, created_at "
+        "FROM emissions ORDER BY date DESC LIMIT 500"
+    ).fetchall()
+    cols = ["id", "category", "subcategory", "department", "co2e_kg", "scope", "date", "created_at"]
+    return [dict(zip(cols, r)) for r in rows]
 
 
 if __name__ == "__main__":
