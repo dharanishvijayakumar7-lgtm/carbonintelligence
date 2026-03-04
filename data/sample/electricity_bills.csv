@@ -1,0 +1,27 @@
+category,subcategory,department,description,quantity,unit,date
+electricity,grid_us,Engineering,Office Floor 1 - January,4500,kWh,2025-01-15
+electricity,grid_us,Engineering,Office Floor 1 - February,4200,kWh,2025-02-15
+electricity,grid_us,Engineering,Office Floor 1 - March,3800,kWh,2025-03-15
+electricity,grid_us,Engineering,Office Floor 1 - April,3500,kWh,2025-04-15
+electricity,grid_us,Engineering,Office Floor 1 - May,4000,kWh,2025-05-15
+electricity,grid_us,Engineering,Office Floor 1 - June,4800,kWh,2025-06-15
+electricity,grid_us,Engineering,Office Floor 1 - July,5200,kWh,2025-07-15
+electricity,grid_us,Engineering,Office Floor 1 - August,5400,kWh,2025-08-15
+electricity,grid_us,Engineering,Office Floor 1 - September,4600,kWh,2025-09-15
+electricity,grid_us,Engineering,Office Floor 1 - October,4100,kWh,2025-10-15
+electricity,grid_us,Engineering,Office Floor 1 - November,4300,kWh,2025-11-15
+electricity,grid_us,Engineering,Office Floor 1 - December,4700,kWh,2025-12-15
+electricity,grid_us,Marketing,Marketing Suite - January,1800,kWh,2025-01-15
+electricity,grid_us,Marketing,Marketing Suite - February,1750,kWh,2025-02-15
+electricity,grid_us,Marketing,Marketing Suite - March,1600,kWh,2025-03-15
+electricity,grid_us,Marketing,Marketing Suite - April,1500,kWh,2025-04-15
+electricity,grid_us,Marketing,Marketing Suite - May,1650,kWh,2025-05-15
+electricity,grid_us,Marketing,Marketing Suite - June,2000,kWh,2025-06-15
+electricity,grid_us,Operations,Server Room - January,8200,kWh,2025-01-15
+electricity,grid_us,Operations,Server Room - February,8100,kWh,2025-02-15
+electricity,grid_us,Operations,Server Room - March,8300,kWh,2025-03-15
+electricity,grid_us,Operations,Server Room - April,8000,kWh,2025-04-15
+electricity,grid_us,Operations,Server Room - May,8400,kWh,2025-05-15
+electricity,grid_us,Operations,Server Room - June,8600,kWh,2025-06-15
+electricity,grid_us,HR,HR Office - Q1,2400,kWh,2025-02-15
+electricity,grid_us,HR,HR Office - Q2,2600,kWh,2025-05-15

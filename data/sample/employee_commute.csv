@@ -1,0 +1,25 @@
+category,subcategory,department,description,quantity,unit,date
+commuting,car_petrol,Engineering,15 engineers avg 25km roundtrip x 22 days,8250,km,2025-01-31
+commuting,car_petrol,Engineering,15 engineers avg 25km roundtrip x 20 days,7500,km,2025-02-28
+commuting,car_petrol,Engineering,15 engineers avg 25km roundtrip x 22 days,8250,km,2025-03-31
+commuting,car_petrol,Engineering,15 engineers avg 25km roundtrip x 22 days,8250,km,2025-04-30
+commuting,car_petrol,Engineering,15 engineers avg 25km roundtrip x 21 days,7875,km,2025-05-31
+commuting,car_petrol,Engineering,15 engineers avg 25km roundtrip x 22 days,8250,km,2025-06-30
+commuting,public_transit,Marketing,8 marketers avg 20km roundtrip x 22 days,3520,km,2025-01-31
+commuting,public_transit,Marketing,8 marketers avg 20km roundtrip x 20 days,3200,km,2025-02-28
+commuting,public_transit,Marketing,8 marketers avg 20km roundtrip x 22 days,3520,km,2025-03-31
+commuting,public_transit,Marketing,8 marketers avg 20km roundtrip x 22 days,3520,km,2025-04-30
+commuting,public_transit,Marketing,8 marketers avg 20km roundtrip x 21 days,3360,km,2025-05-31
+commuting,public_transit,Marketing,8 marketers avg 20km roundtrip x 22 days,3520,km,2025-06-30
+commuting,car_diesel,Sales,10 sales reps avg 30km roundtrip x 18 days,5400,km,2025-01-31
+commuting,car_diesel,Sales,10 sales reps avg 30km roundtrip x 16 days,4800,km,2025-02-28
+commuting,car_diesel,Sales,10 sales reps avg 30km roundtrip x 18 days,5400,km,2025-03-31
+commuting,car_diesel,Sales,10 sales reps avg 30km roundtrip x 18 days,5400,km,2025-04-30
+commuting,car_diesel,Sales,10 sales reps avg 30km roundtrip x 17 days,5100,km,2025-05-31
+commuting,car_diesel,Sales,10 sales reps avg 30km roundtrip x 18 days,5400,km,2025-06-30
+commuting,car_electric,Operations,3 ops staff avg 15km roundtrip x 22 days,990,km,2025-01-31
+commuting,car_electric,Operations,3 ops staff avg 15km roundtrip x 20 days,900,km,2025-02-28
+commuting,car_electric,Operations,3 ops staff avg 15km roundtrip x 22 days,990,km,2025-03-31
+commuting,bicycle,Engineering,2 engineers cycling 10km roundtrip x 22 days,440,km,2025-04-30
+commuting,bicycle,Engineering,2 engineers cycling 10km roundtrip x 21 days,420,km,2025-05-31
+commuting,bicycle,Engineering,2 engineers cycling 10km roundtrip x 22 days,440,km,2025-06-30

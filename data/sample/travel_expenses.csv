@@ -1,0 +1,23 @@
+category,subcategory,department,description,quantity,unit,date
+travel,flight_short,Sales,NYC to Boston client meeting,600,km,2025-01-10
+travel,flight_short,Sales,NYC to DC conference,400,km,2025-01-22
+travel,flight_medium,Engineering,SF to Seattle team offsite,1400,km,2025-02-05
+travel,flight_long,Executive,NYC to London partner meeting,5600,km,2025-02-15
+travel,flight_long,Executive,London to NYC return,5600,km,2025-02-20
+travel,flight_short,Marketing,Chicago to Detroit event,400,km,2025-03-08
+travel,car_petrol,Sales,Local client visits - Jan,850,km,2025-01-31
+travel,car_petrol,Sales,Local client visits - Feb,720,km,2025-02-28
+travel,car_petrol,Sales,Local client visits - Mar,900,km,2025-03-31
+travel,car_petrol,Sales,Local client visits - Apr,680,km,2025-04-30
+travel,car_petrol,Sales,Local client visits - May,750,km,2025-05-31
+travel,car_petrol,Sales,Local client visits - Jun,800,km,2025-06-30
+travel,train,Engineering,Office to data center - Jan,200,km,2025-01-15
+travel,train,Engineering,Office to data center - Feb,200,km,2025-02-15
+travel,train,Engineering,Office to data center - Mar,200,km,2025-03-15
+travel,train,Engineering,Office to data center - Apr,200,km,2025-04-15
+travel,taxi,Marketing,Airport transfers,120,km,2025-03-08
+travel,flight_medium,Sales,Dallas to Houston trade show,400,km,2025-04-12
+travel,flight_long,Executive,NYC to Tokyo board meeting,10800,km,2025-05-01
+travel,flight_long,Executive,Tokyo to NYC return,10800,km,2025-05-05
+travel,car_diesel,Operations,Warehouse visits,450,km,2025-04-20
+travel,bus,HR,Team building event transport,80,km,2025-06-15
