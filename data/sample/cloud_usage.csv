@@ -1,0 +1,25 @@
+category,subcategory,department,description,quantity,unit,date
+cloud,aws,Engineering,AWS compute & storage - Jan,4200,USD,2025-01-31
+cloud,aws,Engineering,AWS compute & storage - Feb,4350,USD,2025-02-28
+cloud,aws,Engineering,AWS compute & storage - Mar,4500,USD,2025-03-31
+cloud,aws,Engineering,AWS compute & storage - Apr,4100,USD,2025-04-30
+cloud,aws,Engineering,AWS compute & storage - May,4800,USD,2025-05-31
+cloud,aws,Engineering,AWS compute & storage - Jun,5200,USD,2025-06-30
+cloud,gcp,Engineering,GCP ML training - Jan,1200,USD,2025-01-31
+cloud,gcp,Engineering,GCP ML training - Feb,1400,USD,2025-02-28
+cloud,gcp,Engineering,GCP ML training - Mar,1800,USD,2025-03-31
+cloud,gcp,Engineering,GCP ML training - Apr,1100,USD,2025-04-30
+cloud,gcp,Engineering,GCP ML training - May,1600,USD,2025-05-31
+cloud,gcp,Engineering,GCP ML training - Jun,2000,USD,2025-06-30
+cloud,azure,Operations,Azure DevOps & CI/CD - Jan,800,USD,2025-01-31
+cloud,azure,Operations,Azure DevOps & CI/CD - Feb,820,USD,2025-02-28
+cloud,azure,Operations,Azure DevOps & CI/CD - Mar,850,USD,2025-03-31
+cloud,azure,Operations,Azure DevOps & CI/CD - Apr,780,USD,2025-04-30
+cloud,azure,Operations,Azure DevOps & CI/CD - May,900,USD,2025-05-31
+cloud,azure,Operations,Azure DevOps & CI/CD - Jun,950,USD,2025-06-30
+cloud,aws,Marketing,AWS hosting marketing site - Jan,300,USD,2025-01-31
+cloud,aws,Marketing,AWS hosting marketing site - Feb,310,USD,2025-02-28
+cloud,aws,Marketing,AWS hosting marketing site - Mar,290,USD,2025-03-31
+cloud,aws,Marketing,AWS hosting marketing site - Apr,320,USD,2025-04-30
+cloud,aws,Marketing,AWS hosting marketing site - May,340,USD,2025-05-31
+cloud,aws,Marketing,AWS hosting marketing site - Jun,360,USD,2025-06-30

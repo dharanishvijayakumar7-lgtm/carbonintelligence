@@ -27,6 +27,12 @@ from config import OPENAI_API_KEY
 # ── Intent Detection ─────────────────────────────────────────────────
 
 INTENT_PATTERNS: list[tuple[str, list[str]]] = [
+    ("prediction", [
+        r"(?:predict|forecast|project|future)",
+        r"(?:what will|expected|estimated).*(?:next|future)",
+        r"(?:trajectory|outlook)",
+        r"next\s*(?:month|quarter|year)",
+    ]),
     ("total_emissions", [
         r"total.*(?:emissions?|footprint|carbon)",
         r"(?:what|how much).*(?:carbon|co2|emissions?|footprint)",
@@ -58,11 +64,6 @@ INTENT_PATTERNS: list[tuple[str, list[str]]] = [
         r"(?:reduce|lower|decrease|cut).*(?:emissions?|carbon|footprint)",
         r"(?:recommendation|suggestion|advice|tip)",
         r"(?:save|saving).*(?:carbon|co2|emissions?)",
-    ]),
-    ("prediction", [
-        r"(?:predict|forecast|project|future|next)",
-        r"(?:what will|expected|estimated).*(?:next|future)",
-        r"(?:trend|trajectory|outlook)",
     ]),
     ("scope_breakdown", [
         r"scope\s*[123]",

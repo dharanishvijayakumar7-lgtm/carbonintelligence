@@ -1,0 +1,14 @@
+category,subcategory,department,description,quantity,unit,date
+equipment,laptop,Engineering,Developer laptops - Q1 refresh,5,item,2025-01-20
+equipment,laptop,Marketing,Marketing team laptops,2,item,2025-02-10
+equipment,monitor,Engineering,27inch monitors for new hires,5,item,2025-01-20
+equipment,monitor,Marketing,Design monitors,2,item,2025-02-10
+equipment,desktop,Operations,Operations workstations,2,item,2025-03-01
+equipment,phone,Sales,Sales team phones,10,item,2025-01-15
+equipment,phone,Executive,Executive phones,3,item,2025-04-01
+equipment,printer,Operations,Office printer replacement,1,item,2025-02-15
+equipment,server,Operations,On-prem backup server,1,item,2025-03-15
+equipment,furniture,HR,Ergonomic desk chairs,15,item,2025-01-10
+equipment,furniture,Engineering,Standing desks,8,item,2025-04-20
+equipment,laptop,Sales,Sales team laptops,4,item,2025-05-01
+equipment,monitor,Sales,Presentation monitors,2,item,2025-05-01

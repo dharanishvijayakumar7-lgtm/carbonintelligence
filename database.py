@@ -1,10 +1,13 @@
 """
 Carbon Intelligence System — DuckDB Database Layer
 """
+from __future__ import annotations
+
+from typing import Optional
 import duckdb
 from config import DATABASE_URL
 
-_conn: duckdb.DuckDBPyConnection | None = None
+_conn: Optional[duckdb.DuckDBPyConnection] = None
 
 
 def get_connection() -> duckdb.DuckDBPyConnection:
